@@ -100,8 +100,8 @@ public class PageRender<T> {
 Numeradas:
 
 1. One
-  1. One One
-  2. Two One
+	1. One One
+	2. Two One
 2. Two
 3. Three
 
@@ -132,7 +132,7 @@ Elemento 5 | Elemento 6
 
 # CheckList
 
--[x] Tarea 1
--[ ] Tarea 2
--[ ] Tarea 3
--[x] Tarea 4
+- [x] Tarea 1
+- [ ] Tarea 2
+- [ ] Tarea 3
+- [x] Tarea 4
